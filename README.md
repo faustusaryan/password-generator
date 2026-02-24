@@ -17,3 +17,10 @@ This is a CLI-based strong password generator built using Python.
 - loops
 - validation
 - shuffle
+
+## How to Run
+
+1. Clone the repository
+2. Run the file:
+
+python password_generator.py
